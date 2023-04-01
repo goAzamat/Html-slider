@@ -1,1 +1,1 @@
-# Html-slider
+https://goazamat.github.io/Html-slider/
